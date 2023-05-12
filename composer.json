@@ -1,6 +1,6 @@
 {
     "name": "messer/mask",
-    "description": "Mascarador de valores PHP",
+    "description": "PHP Value Masker by Gustavo Messer",
     "type": "library",
     "license": "MIT",
     "authors": [
